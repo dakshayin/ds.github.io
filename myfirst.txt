@@ -1,0 +1,17 @@
+<!-DOCTYPE html>
+<html>
+<head>
+<title>
+DS Web Design
+</title>
+</head>
+<body>
+
+
+<h1> <center> WEB PROGRAMMING AND IT'S APPLICATIONS </center>  </h1>
+	<h2> About the workshop </h2>
+	<h3> Registraion details </h3>
+	<h4> Contact details </h4>
+<p> Hi. This is all about DS web design , go through the website for more details</p>
+</body>
+</html>

@@ -1,0 +1,13 @@
+<html>
+<head>
+<title> Fruits details</title>
+</head>
+<body>
+<ol>
+<li> Apple</li>
+<li> Grapes </li>
+<li> Mango </li>
+<li> Watermleon</li>
+</ol>
+</body>
+</html>
